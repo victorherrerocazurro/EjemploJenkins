@@ -1,0 +1,5 @@
+projectKey=com.ejemplo.hamcrest:03-Hamcrest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.ejemplo.hamcrest:03-Hamcrest
+ceTaskId=AVR8pLGI4ydFKfEAWFZP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVR8pLGI4ydFKfEAWFZP
